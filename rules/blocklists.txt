@@ -9553,6 +9553,7 @@ ads.brandadvance.co.uk
 ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -14498,7 +14499,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -15395,6 +15397,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -32007,7 +32010,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -33002,7 +33004,6 @@ check.buetzandbeats.de
 check.frbservices.org
 check.looser.jp
 check.tep.test.ajo.adobe.com
-check24reifdn.de
 check3.tiaa.org
 checkbookfort.com
 checkcavity.com
@@ -39049,7 +39050,6 @@ crypto-dsf-sg.allawnos.com
 crypto-dsf-us.allawnos.com
 crypto-loot.com
 crypto-loot.org
-crypto-o.click
 crypto-pool.fr
 cryptoadvertising.net
 cryptoatom.care
@@ -45114,6 +45114,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -50961,7 +50962,6 @@ dysenteryanywhere.com
 dysjtdw.in
 dysuze6ljcmcr.cloudfront.net
 dytuj6zs26.com
-dyupbydns.com
 dyv1bugovvq1g.cloudfront.net
 dyvkswbqkgfhp.space
 dywolfer.de
@@ -52526,6 +52526,7 @@ egcuxefgvsjpw.online
 egde.nelreports.net
 egdeb.slaterockautomation.com
 egen.demdex.net
+egeszsegespont.hu
 egfqzlqcynxif.online
 egg.afisha.ru
 eggflow.com
@@ -63682,6 +63683,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -82063,7 +82065,6 @@ kryptosda.kryptosmobile.com
 krytilka.ru
 kryvidmqdmlnm.space
 krzkasckoqvad.site
-krzovyae.work
 krzsueygruwdl.online
 ks-p2p.pull.yximgs.com
 ks.pull.yximgs.com
@@ -92877,6 +92878,7 @@ mainos.pro
 mainpbnpower.info
 mainrepo.org
 mainroll.com
+maintainconnection.co.in
 maintaintournamentslick.com
 maio.jp
 maipn.dtxent.com
@@ -106599,6 +106601,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -117218,7 +117221,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -127819,6 +127821,7 @@ robly.com
 robotbagpipe.com
 robotgarages.com
 robspabah.com
+robustlink.co.in
 robustpsychology.com
 robyoc.online
 roche.demdex.net
@@ -129092,7 +129095,6 @@ rtk.trk.seniorplansupdated.com
 rtk.trk.seniorprotectcenter.com
 rtk.trk.silvercareplans.com
 rtk.trk.thesavinghabit.com
-rtk.trk.truebenefitshub.com
 rtk.trk.updatehealthtoday.com
 rtk.trk.usahealthsense.com
 rtk.trk.wellnessadvisorpoint.com
@@ -130538,7 +130540,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -132088,6 +132089,7 @@ savoryink.com
 savoryorange.com
 savorystructure.com
 savourbiggergait.com
+savoursweeptuck.com
 savouryluxury.com
 savoy.storage.cubecdn.net
 savttuegxztst.site
@@ -139833,6 +139835,7 @@ sgtm.salonemilano.it
 sgtm.sanamana.de
 sgtm.sandboxvr.com
 sgtm.sandvik.coromant.com
+sgtm.santander.be
 sgtm.sareemela.com
 sgtm.satoorday.com
 sgtm.saunashop.klafs.at
@@ -151638,7 +151641,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -155690,6 +155692,7 @@ sta1.mediakortit.fi
 staape.rizqoon.com
 staatsraeson.de
 staatsregierung.net
+stabilizelink.co.in
 stable-consist.com
 stable-skill.com
 stableapp.net
@@ -161322,7 +161325,6 @@ streamate.icfcdn.com
 streamateaccess.com
 streamatelive.com
 streamback.ff.avast.com
-streamdefence.com
 streamesh.net
 streameye.net
 streamflash-app.com
@@ -178075,7 +178077,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
