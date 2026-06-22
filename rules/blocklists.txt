@@ -9957,7 +9957,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -10798,6 +10797,7 @@ ads.us.criteo.com
 ads.us.nextdoor.com
 ads.us.tiktok.com
 ads.usatoday.com
+ads.uwayapply.com
 ads.uxs.at
 ads.varldenidag.se
 ads.vcnc.co.kr
@@ -11076,7 +11076,6 @@ adsbridge.com
 adsbtrack.com
 adsbtrk.com
 adsbuddy.net
-adsbuyclick.com
 adsby.2bet.co.jp
 adsby.bidtheatre.com
 adsby.io
@@ -11642,7 +11641,6 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
-adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -14938,8 +14936,6 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -17585,6 +17581,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -17967,6 +17964,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -19389,6 +19387,7 @@ api.draandreamorato.com.br
 api.dradyelycampos.com.br
 api.dranaravieira.com.br
 api.drandreinacio.com.br
+api.drdiogoviana.com.br
 api.dreamsatacado.com.br
 api.drflaviogodoy.com.br
 api.drgilbertovianna.com.br
@@ -19474,7 +19473,6 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.fgrsports.com.br
 api.fiezzo.com
 api.filtrokangen.com
-api.finance.bazgus.com
 api.financeiroweb.com.br
 api.findenkaereste.dk
 api.fiodeminastricot.com.br
@@ -19991,7 +19989,6 @@ api.shanghailingye.cn
 api.share.baidu.com
 api.share.mob.com
 api.sharkninjabrasil.com.br
-api.shein.hoctan.com
 api.shein.zuremod.com
 api.shopcarpe.com.br
 api.shuzilm.cn
@@ -21052,6 +21049,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -32611,7 +32609,6 @@ cdn.fivecdm.com
 cdn.flashtalking.com
 cdn.flurry.com
 cdn.foxpush.net
-cdn.fqkwn.com
 cdn.fqtag.com
 cdn.frase.io
 cdn.fraudlabspro.com
@@ -32845,7 +32842,6 @@ cdn.optoutadvertising.com
 cdn.orangeclickmedia.com
 cdn.otm-r.com
 cdn.otnolatrnup.com
-cdn.ovqds.com
 cdn.p-n.io
 cdn.parsely.com
 cdn.particularaudience.com
@@ -32900,7 +32896,6 @@ cdn.pushdy.com
 cdn.pushmaster-cdn.xyz
 cdn.pushowl.com
 cdn.pushwoosh.com
-cdn.puyjjq.com
 cdn.pwonline.ru
 cdn.q0losid.com
 cdn.qc.coccoc.com
@@ -32994,7 +32989,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -39660,6 +39654,7 @@ crealytics.com
 creamssicsite.com
 creamy-recover.com
 creamymouth.com
+creara-media.ru
 creasereturndisplayed.com
 creasotgowans.shop
 creatablegluesurvival.com
@@ -40136,6 +40131,7 @@ cs.adingo.jp
 cs.admanmedia.com
 cs.analytics.lego.com
 cs.askingpoint.com
+cs.avito.ru
 cs.bankmillennium.pl
 cs.betus.com.pa
 cs.boost-next.co.jp
@@ -40390,6 +40386,7 @@ ctlayn.talbots.com
 ctllup.deery.com.tr
 ctlpyp.lactoclear.co.kr
 ctlxht.akeso.co.kr
+ctm-media.com
 ctm.turnbull-scott.co.uk
 ctmofpzrkmjxt.site
 ctmpjhldreytz.space
@@ -45637,6 +45634,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -50355,6 +50353,7 @@ dnsdl.org
 dnset.com
 dnsscan.shadowserver.org
 dnt-userreport.com
+dntds.shop
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
 dnutc.modularclosets.com
@@ -52572,7 +52571,6 @@ e1wluazgt.com
 e1yrns9aw.com
 e2.bablic.com
 e2.hazeldenbettyford.org
-e2.molbuk.ua
 e2.sy-d.io
 e20d8e38992b.o3n.io
 e212585.b.akamaiedge.net
@@ -55776,6 +55774,7 @@ ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -58894,6 +58893,7 @@ fcciyjcrcopsw.online
 fcd.autoads.asia
 fcdn.webme.com
 fceaj.vrsnscents.com
+fcepahafyq.com
 fcf18679b7.com
 fcfa9c85a8.106778d1a7.com
 fcfgnzaozklfp.space
@@ -64018,7 +64018,6 @@ getdirect.ru
 getdirectbonus.com
 getdomain.woodpeckerlog.com
 getexceptional.com
-getflexsafe.io
 getflits.com
 getflowads.net
 getfluxfile.com
@@ -66516,7 +66515,6 @@ greatdiscoverapp.com
 greaterjoke.com
 greatlifebargains2024.com
 greatmiddleeastgate.com
-greatpillsshops.com
 greatsembarktercels.cyou
 greatviews.de
 greatwall.net
@@ -68771,7 +68769,6 @@ gtm.lucasnaves.com
 gtm.lucibellagrupowhatsapp.cabe.shop
 gtm.lucioflaviopaiva.com
 gtm.luck.bet
-gtm.lucrandocomdelivery.com.br
 gtm.ludicjalecos.com
 gtm.luega.com.br
 gtm.luisfrattacoach.com
@@ -70257,7 +70254,6 @@ gtm.www.svenskaspel.se
 gtm.x1company.com.br
 gtm.x1med.com.br
 gtm.xandeconsorcio.com
-gtm.xenonleather.com
 gtm.xequematenem.com.br
 gtm.xlandbd.com
 gtm.xn--gsbekldning-f9a.dk
@@ -70391,6 +70387,7 @@ gtmserver.academiaevolve.com.br
 gtmserver.apoioentrega.com
 gtmserver.artedamixagem.com.br
 gtmserver.artemorumbi.com.br
+gtmserver.atelierallanhernandez.com.br
 gtmserver.audacitycapital.co.uk
 gtmserver.autopia.com.br
 gtmserver.avaliacaodaminhaempresa.com.br
@@ -73570,6 +73567,7 @@ hpplay.cdn.cibn.cc
 hpplay.cn
 hpplay.com.cn
 hpplosswaluxl.website
+hppvkbfcuq.com
 hpqiktoilcksn.site
 hprofits.com
 hpryvlxqtsgpx.site
@@ -85595,7 +85593,6 @@ leadforensics.com
 leadgainz.com
 leadgid.go2cloud.org
 leadgid.ru
-leadgidads.ru
 leadhit.ru
 leadid.com
 leadin.com
@@ -93026,7 +93023,6 @@ login.adxpoint.com
 login.adzinx.com
 login.affiliatesit.cz
 login.affluentco.com
-login.agilitydigitalmedia.com
 login.alibaba-inc.com
 login.amtechads.com
 login.artilleryads.com
@@ -93557,7 +93553,6 @@ loving-link.com
 lovingdrop.pro
 lovingforever.pro
 lovinghosethus.com
-lovn.ru
 lovrsdate.com
 lowboyrehair.qpon
 lowboystretch.cfd
@@ -94531,7 +94526,6 @@ lyusuwiuwhwtl.online
 lyvkvqitzktkx.store
 lyvlbjzbozkxy.space
 lyvootnkgwxkq.online
-lywaelm.online
 lywfwxeexwcwc.online
 lywuyxazjxmbt.site
 lyxfra.shopee.com.my
@@ -97751,7 +97745,6 @@ mblyjustingex.org
 mbmar.wtf.tv
 mbn-1.com
 mbn.com.ua
-mbn.su
 mbn6duism5.com
 mbna.bruker.com
 mbna.liveperson.net
@@ -109181,6 +109174,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -111972,7 +111966,6 @@ obgnfbrfvosbi.online
 obguj.wishgardenherbs.com
 obhtt.innosupps.com
 obhxvb.tmktools.ru
-obigre.ru
 obin.distinctrobin.com
 obislame.ru
 obitel.com
@@ -114671,10 +114664,6 @@ ouq.mybluehost.me
 ouq0y4glur.casesruralscatalunya.com
 ouqmd.sugarbabycare.co
 ouqnsrtmguuyd.site
-ouqo05161luj.com
-ouqo05170luj.com
-ouqo05171luj.com
-ouqo05181luj.com
 ouqod.bariatriceating.com
 our.karndean.com
 our.sunshinecoast.qld.gov.au
@@ -115555,6 +115544,7 @@ pacsteam.org
 pacvrvuworosd.website
 pacvue.com
 pad-v3.presage.io
+pad.zhywyl.cn
 paddlefidget.com
 paddlemoscowsplit.com
 paddleweekendnudge.com
@@ -115909,7 +115899,6 @@ panel.adsaro.com
 panel.bcnmonetize.com
 panel.ioam.de
 panel.smartpoint.pro
-panels.top
 paneltabuedemyds.qpon
 panet.org
 pangaeainfima.com
@@ -124743,7 +124732,6 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
-qxplus.ru
 qxpxrbettkskb.space
 qxqsrwtzxbpae.store
 qxrbu.com
@@ -128471,7 +128459,6 @@ realbig.media
 realcastmedia.com
 realcfadsblog.com
 realclever.com
-realclick.co.kr
 realclick.vn
 realclix.com
 realcounter.eu
@@ -129435,7 +129422,6 @@ removedidentification.com
 removedrehabilitation.com
 removemalwarevirus.com
 removeverizon.net
-remox.com
 remp-beam.golem.de
 remp-campaign.golem.de
 remp.dailymaverick.co.za
@@ -133646,7 +133632,6 @@ s.schuback-parfuemerien.de
 s.schwabensolar.com
 s.scourtinerie.com
 s.scuolayogashanti.it
-s.sdx.ru
 s.seelenverwandter.de
 s.service.tiresplus.com
 s.sfxfunded.com
@@ -133763,7 +133748,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -138957,7 +138941,6 @@ server.deerandoe.com
 server.deerfootcity.com
 server.defhomedecor.com.br
 server.deflix.xyz
-server.deggyshop.com
 server.deisecaroline.com.br
 server.dellaedellecosmeticos.com
 server.dellavitaalimentos.com
@@ -146641,7 +146624,6 @@ smetrics.diners.co.jp
 smetrics.dinersclub.ch
 smetrics.dinersclub.dk
 smetrics.dipdirect.com
-smetrics.directauto.com
 smetrics.directline.com
 smetrics.directlineforbusiness.co.uk
 smetrics.directtv.com
@@ -146824,7 +146806,6 @@ smetrics.famousfootwear.com
 smetrics.fancl.co.jp
 smetrics.fancl.jp
 smetrics.fancyfeast.com
-smetrics.farmersunioninsurance.com
 smetrics.farmfutures.com
 smetrics.farmprogress.com
 smetrics.farnell.com
@@ -147002,7 +146983,6 @@ smetrics.golden1.com
 smetrics.golfgalaxy.com
 smetrics.gomastercard.com.au
 smetrics.gomedigap.com
-smetrics.goodsamrvinsurance.com
 smetrics.goodyear.ca
 smetrics.goodyear.com
 smetrics.goodyearautoservice.com
@@ -147057,7 +147037,6 @@ smetrics.hdcymru.co.uk
 smetrics.hdfc.bank.in
 smetrics.hdfcbank.com
 smetrics.health.com
-smetrics.healthcompare.com
 smetrics.healthconnect360.com
 smetrics.healthengine.com.au
 smetrics.healthnet.com
@@ -147776,7 +147755,6 @@ smetrics.napaprolink.com
 smetrics.nascar.com
 smetrics.nasdaq.com
 smetrics.nationalbank.co.nz
-smetrics.nationalgeneral.com
 smetrics.nationalgrideso.com
 smetrics.nationaltrust.org.uk
 smetrics.nationwide.co.uk
@@ -148323,6 +148301,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -150894,7 +150873,6 @@ sonar-maa5-2.xx.fbcdn.net
 sonar-mad.xx.fbcdn.net
 sonar-mad1-1.xx.fbcdn.net
 sonar-mad2-1.xx.fbcdn.net
-sonar-man.xx.fbcdn.net
 sonar-man2-1.xx.fbcdn.net
 sonar-mba2-1.xx.fbcdn.net
 sonar-mct1-1.xx.fbcdn.net
@@ -158515,7 +158493,6 @@ sst.valtur.com
 sst.vandijkstore.nl
 sst.vanvliet.com
 sst.vapestation.de
-sst.vararilaundry.com
 sst.varbilet1.com
 sst.vardo.co.in
 sst.vargamezes.ro
@@ -165336,7 +165313,6 @@ sub1.cosmosdirekt.de
 sub1.gebeall.info
 sub2.abcbest.info
 sub2.avgle.com
-sub2.meghfashion.com
 sub2tech.com
 sub3.abcbest.info
 subag.freexxxbase.com
@@ -165543,7 +165519,6 @@ suhfnjm.com
 suibianmaimaicom.com
 suicidalruse.com
 suiformupdrink.cyou
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitcase890.top
@@ -165580,7 +165555,6 @@ sullensbondman.cfd
 sullivantire.evergage.com
 sullowspatio.com
 sullybrigous.cfd
-sulpec.com
 sulpicqiv.in
 sultrymomentarily.com
 sultrysteelemigrant.com
@@ -169464,6 +169438,7 @@ tatu.sortenabet.bet.br
 tatu.sounuaa.com.br
 tatu.spcbrasil.com.br
 tatu.tabelasaude.com
+tatu.thegamecollective.com.br
 tatu.tocatapetes.com.br
 tatu.totalip.com.br
 tatu.tropicalbud.pt
@@ -169819,6 +169794,7 @@ tdska.cfd
 tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdstats.com
+tdsworkout.com
 tdtc.shop
 tdtfga.healingpinesrecovery.com
 tdum.alibaba.com
@@ -182176,7 +182152,6 @@ uss-pid.lenovomm.com
 usseek.com
 ussmtrack.com
 usstat.icocofun.com
-ussxvwu.online
 ust-ad.com
 usta.demdex.net
 ustat.info
@@ -183129,6 +183104,7 @@ v0su9ogte.com
 v1-c73e.kxcdn.com
 v1-feed.idreamsky.com
 v1-play.log.mgtv.com
+v1.19purify.com
 v1.addthisedge.com.edgekey.net
 v1.alllinear.com
 v1.allnestinfinite.com
@@ -184144,7 +184120,6 @@ vfjoawcligjcs.online
 vfjxvt.icu
 vflbochum1848-sst.merchandising-onlineshop.com
 vfljt.coffeeandmotivation.com
-vfmabriuyjvuld.com
 vfmahn.slevomat.cz
 vfnab.vegamour.com
 vfnxqznmwbcee.store
@@ -192562,7 +192537,6 @@ x9.shinobi.jp
 x982.koat.com
 x9flqeptn.com
 x9ner.anygay.com
-x9t7g4m2qk2.azurewebsites.net
 xa.poringa.net
 xaaaluzygbrgc.space
 xaaitpzcofwdm.site
