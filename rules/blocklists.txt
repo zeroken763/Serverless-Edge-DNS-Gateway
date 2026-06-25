@@ -200,6 +200,7 @@
 0fees.net
 0ff34e8ab8.com
 0fmm.com
+0fox.com
 0fs6pe6w0j.com
 0gw7e6s3wrao9y3q.pro
 0h9yewgei.com
@@ -7603,7 +7604,6 @@ ad.tpmn.io
 ad.track1v.com
 ad.trackedblds.com
 ad.tradertimerz.media
-ad.trafanalyzer.com
 ad.trafficgate.net
 ad.transferapp.navitime.jp
 ad.trcksrv.de
@@ -9924,7 +9924,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.brzchecagem.com
@@ -9993,7 +9992,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -10545,7 +10543,6 @@ ads.playsimple.games
 ads.playstream.media
 ads.pni.com
 ads.poconorecord.com
-ads.pof.com
 ads.pointroll.com
 ads.pojonews.com
 ads.poki-cdn.com
@@ -14993,7 +14990,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -22130,6 +22128,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -22553,7 +22552,6 @@ assets.bttrack.com
 assets.bygghobby.no
 assets.cambiandotuvida50.site
 assets.cargoboard.com
-assets.chartboost.com
 assets.comparitech.com
 assets.connatix.com
 assets.contextly.com
@@ -33133,7 +33131,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -39806,7 +39803,6 @@ crealytics.com
 creamssicsite.com
 creamy-recover.com
 creamymouth.com
-creara-media.ru
 creasereturndisplayed.com
 creasotgowans.shop
 creatablegluesurvival.com
@@ -45801,6 +45797,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -46358,6 +46355,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -69015,6 +69013,7 @@ gtm.lucasnaves.com
 gtm.lucibellagrupowhatsapp.cabe.shop
 gtm.lucioflaviopaiva.com
 gtm.luck.bet
+gtm.lucrandocomdelivery.com.br
 gtm.ludicjalecos.com
 gtm.luega.com.br
 gtm.luisfrattacoach.com
@@ -74395,6 +74394,7 @@ hurl.service.newrelic.com
 hurlerlutists.qpon
 hurlmedia.design
 hurlpitbanzais.qpon
+hurlybegaud.top
 hurra.com
 hurra.de
 hurricanedigitalmedia.com
@@ -74829,7 +74829,6 @@ i.l.cnn.net
 i.l.inmobicdn.net
 i.l.networld.hk
 i.lf360.co
-i.liadm.com
 i.logrocket.com
 i.loopme.me
 i.love4porn.com
@@ -86612,7 +86611,6 @@ libaz.splashwines.com
 libellouschurchtommy.com
 liberaldoubtedadulatory.com
 liberalpoy.com
-liberro.it
 libersforeact.cyou
 liberty.gedads.com
 libertycdn.com
@@ -104489,8 +104487,8 @@ movie.ezbrowsing.com
 moviead55.ru
 movieexhibit.com
 movieguidemail.com
-movieng.com
 movies-flix.club
+movies-watch-time.club
 movies221.com
 moviesatm.com
 moviescreen.site
@@ -109583,7 +109581,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -120601,6 +120598,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141671,7 +141669,6 @@ severalsail.com
 severewall.pro
 severspate.jhonizini.com.br
 sevln.thetiebar.com
-sevyrerq.big-life.org
 sevyrerq.fca.ua
 sewboldlyavow.com
 sewdialogueconcealment.com
@@ -159601,6 +159598,7 @@ st.buitenkampioen.nl
 st.cariani.com.br
 st.cdnco.us
 st.claudia-berger.com
+st.com
 st.creative-cables.at
 st.creative-cables.be
 st.creative-cables.ch
@@ -160758,7 +160756,6 @@ stape.fecarmotors.com.br
 stape.felipemoraisv.com.br
 stape.fellipeamatuzzi.com
 stape.ferazao.com.br
-stape.ferbrunet.com
 stape.fernandadomecg.com.br
 stape.fernandalandeiro.com.br
 stape.fernandapessoa.com.br
@@ -165928,6 +165925,7 @@ suhfnjm.com
 suibianmaimaicom.com
 suicidalruse.com
 suiformupdrink.cyou
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitcase890.top
@@ -174331,6 +174329,7 @@ tr.news.enkiapp.io
 tr.news.entreprise-pm.com
 tr.news.eureden.com
 tr.news.eurodatatv.com
+tr.news.exclu.fr
 tr.news.extenso-telecom.com
 tr.news.externis.com
 tr.news.extrabook.com
@@ -177096,6 +177095,7 @@ tracking.trutv.com
 tracking.try.chirotech-us.com
 tracking.tuftsmedicine.org
 tracking.turbowinbet.com
+tracking.tuyenquang.gov.vn
 tracking.tv.zing.vn
 tracking.tvet-vietnam.org
 tracking.twelveapp.sh
@@ -182507,7 +182507,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
@@ -196172,6 +196171,7 @@ youthfire.com
 youthfulpoem.pro
 youthlyfowl.cyou
 youtrack.ops.connatix.com
+youtubee.biz
 youtubei.youtube.com
 youtuber-cash.buzz
 youtubesave.org
