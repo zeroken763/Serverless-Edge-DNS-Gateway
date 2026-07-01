@@ -10883,7 +10883,6 @@ adscout.io
 adscreendirect.com
 adscz.calendars.com
 adsdaq.com
-adsdatastream.top
 adsdefender.com
 adsdk.9imobi.com
 adsdk.adfarm1.adition.com
@@ -12046,7 +12045,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -14632,7 +14630,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -15517,7 +15516,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -17674,7 +17672,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -32201,6 +32198,7 @@ cdn.yoox.biz
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -38784,7 +38782,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -44343,6 +44340,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -44899,6 +44897,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -45780,6 +45779,7 @@ data.voyager.dev.cjmadobe.com
 data.waleskamarinho.com
 data.wallartsmetal.com
 data.wanderingowl.com
+data.waptime.cn
 data.webads.co.nz
 data.welcome.realmadrid.com
 data.welife.es
@@ -54433,6 +54433,7 @@ error.demdex.net
 error.fc2.com.cdn.cloudflare.net
 error.nextersglobal.com
 error.practicefusion.com
+error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.uhost.co.kr
 error.videonow.ru
@@ -58082,7 +58083,6 @@ find.tjmartbd.com
 findandate.com
 findanswersnow.net
 findbetterresults.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -60905,7 +60905,6 @@ galainteractive.evergage.com
 galaksion.com
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
-galaxien.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
 galaxy.reachifyinnovations.in
@@ -94010,7 +94009,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -111497,7 +111495,6 @@ p2kdjk34dd.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -114240,6 +114237,7 @@ ping.ifixit.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.zeasn.tv
@@ -117068,7 +117066,6 @@ problogger.lowfruitsolutions.com
 probtn.com
 proc.ad.cpe.dotomi.com
 proceduredisrespect.com
-procedures278.net
 procedures321.com
 proceedflow.com
 proceedingcredulous.com
@@ -118756,6 +118753,7 @@ pwkrakanmet.met.gov.my
 pwlqfu.biz
 pwmctl.com
 pwmzks.prelude.kr
+pwn9c.chenmujiang.com.cn
 pwnyvbfsuetef.site
 pwnz.org
 pwobfhfg.telemetry.connect.eu-central-1.amazonaws.com
@@ -128487,6 +128485,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.dreamland-plc.com
@@ -129031,7 +129030,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -145328,7 +145326,6 @@ solutionreach.evergage.com
 solutions.a-1freeman.com
 solutions.adp.ca
 solutions.adp.com
-solutions.advantageauburn.com
 solutions.amigraphics.com
 solutions.bwtek.com
 solutions.catalent.com
@@ -150114,7 +150111,9 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gatewayvv2lilly-analytics.3.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -160916,7 +160915,6 @@ sweetmoonmonth.com
 sweetnessbrisk.com
 sweetnessnewest.com
 sweetnessspeaksintimidate.com
-sweetslope.com
 sweetstudents.com
 swelen.com
 swellingboyishceased.com
@@ -167158,7 +167156,6 @@ tophosting101.com
 topicalcartel.com
 topiccorruption.com
 topicmagnitude.com
-topincome.cc
 topiz.ru
 topklik.com
 toplist.cz
@@ -185337,7 +185334,6 @@ www.rbp2.ru
 www.rbp2.site
 www.rbp3.ru
 www.rbp63841.ru
-www.rbpark1.site
 www.rbpark2.ru
 www.rbpark3.ru
 www.rbprk91645.ru
@@ -189946,6 +189942,7 @@ z492.ctinsider.com
 z4tnhm97b.com
 z5.cnzz.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z680.beaumontenterprise.com
